@@ -22,6 +22,7 @@ Can Also convert DDS files into .xtx files!
 
 ## Credits:
 * Stella/AboodXD - Writing this tool.
+* zkitX - Writing GUI for the tool.
 
 ## Special thanks to:
 * gdkchan - Original swizzling algorithm.
